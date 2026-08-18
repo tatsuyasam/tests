@@ -87,21 +87,3 @@ animation/
 ├── main.js         # Animation logic and object system
 └── README.md       # This file
 ```
-
-## Tips for Creating Interesting Animations
-
-1. **Use frame count**: The `frameCount` variable tracks animation frames - use it to create time-based effects
-2. **Combine rules**: Mix different velocity patterns for complex behaviors
-3. **Color patterns**: Use different colors to distinguish different types of objects
-4. **Collision detection**: Add logic to detect when objects overlap and trigger events
-5. **User interaction**: Add mouse events to make the animation interactive
-
-## Browser Compatibility
-
-Works in all modern browsers that support HTML5 Canvas:
-- Chrome/Chromium
-- Firefox
-- Safari
-- Edge
-
-Enjoy creating your animations! 🎨
